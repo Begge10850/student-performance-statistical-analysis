@@ -1,6 +1,6 @@
 # Student Performance Statistical Analysis
 
-This project presents a statistical analysis of student performance in Mathematics and Language. The analysis was prepared as part of an application report for the M.Sc. Data Science program at TU Dortmund University for Winter Semester 2026/2027.
+This project presents a statistical analysis of student performance in Mathematics and Language. 
 
 The main goal of the project is to examine whether student scores differ by gender and by parental level of education. The dataset contains 486 students, with each student having scores in two subjects: Mathematics and Language.
 
