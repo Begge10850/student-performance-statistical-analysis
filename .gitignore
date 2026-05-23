@@ -20,3 +20,6 @@ env/
 # Python cache
 __pycache__/
 *.py[cod]
+
+# Application instruction file
+Application_Report_Master_Data_Science_Winter_2026_27.pdf
